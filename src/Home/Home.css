@@ -1,0 +1,12 @@
+.home{
+    width:100%;
+    height: 50px;
+    background-color: rgb(231, 211, 226);
+    color: black;
+    text-align: center;
+}
+.hometitle{
+    font-size: x-large;
+    margin-top: 10px;
+    font-weight: bolder;
+}
